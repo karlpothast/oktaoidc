@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = okta_dotnetcore3_mvc_webapp_quickstart_sample
+build_property.ProjectDir = C:\Users\karlp\source\repos\net4.0\MVC\okta_core2\okta-dotnetcore3-webapp-quickstart\okta-dotnetcore3-mvc-webapp-quickstart-sample\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

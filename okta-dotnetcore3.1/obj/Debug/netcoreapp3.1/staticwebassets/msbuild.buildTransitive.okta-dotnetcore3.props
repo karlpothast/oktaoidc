@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\okta-dotnetcore3.props" />
+</Project>

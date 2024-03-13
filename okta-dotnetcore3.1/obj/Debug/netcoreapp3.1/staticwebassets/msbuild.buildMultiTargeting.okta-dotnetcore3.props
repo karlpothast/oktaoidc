@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\okta-dotnetcore3.props" />
+</Project>
