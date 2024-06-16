@@ -1,5 +1,7 @@
 # Okta OIDC client configs
 
+https://www.youtube.com/watch?v=IKWzi8wII8Q
+
 .NET Core 3.1 MVC  
 .NET Framwork 4.6 MVC
 
